@@ -1,8 +1,10 @@
 # Lokale Geschäfte & Filterkarte
 
-Eine kleine Web‑Anwendung, die auf einer interaktiven Leaflet‑Karte nachhaltige Restaurants, Cafés, Geschäfte und Dienstleister in Bad Saulgau darstellt. Über Checkbox‑Filter lassen sich die Marker nach **Typ** und **Nachhaltigkeitstags** (Bio, Fair, Regional …) filtern.
+Eine kleine Web‑Anwendung, die auf einer interaktiven Leaflet‑Karte Point of Interests (PoI) markiert. Über Checkbox‑Filter lassen sich die Marker nach **Typ** und **Tags** filtern.
 
 ## Demo
+
+Eine Demo der App mit Cafès, Restaurants und Lebensmittelläden und ihrem Nachhaltigkeitsstatus.
 
 👉 [Live‑App ansehen](https://pages.faigle.dev/bs-map)
 
@@ -11,6 +13,8 @@ Eine kleine Web‑Anwendung, die auf einer interaktiven Leaflet‑Karte nachhalt
 * **Leaflet**‑Karte mit OpenStreetMap‑Tiles
 * Dynamische Marker basierend auf *places.json*
 * Checkbox‑Filter (Typ & Tags) mit sofortiger Aktualisierung der Karte
+  * Ein PoI muss **nur einem** der Typen entsprechen um angezeigt zu werden
+  * Ein PoI muss **alle** der Tags besitzten um angezeigt zu werden
 
 ## Projektstruktur
 
