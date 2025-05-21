@@ -1,142 +1,1986 @@
 [
   {
-    "name": "Schwarzer Adler",
+    "name": "Deins Hofladen",
     "coords": [
-      48.01772,
-      9.49899
+      48.04643,
+      9.49196
     ],
-    "type": "Restaurant",
-    "tags": [
-      "Regional",
-      "Fair"
-    ]
-  },
-  {
-    "name": "Bürgerstüble",
-    "coords": [
-      48.01740,
-      9.49750
-    ],
-    "type": "Restaurant",
+    "type": "Ab Hof-Verkauf",
     "tags": [
       "Regional"
-    ]
+    ],
+    "address": "Berglandstraße 46 (Moosheim)",
+    "website": ""
   },
   {
-    "name": "Kleber Post",
+    "name": "Dreher Hofladen und Milchhäusle",
     "coords": [
-      48.01710,
-      9.49800
+      48.00075,
+      9.54486
     ],
-    "type": "Restaurant",
+    "type": "Ab Hof-Verkauf",
     "tags": [
-      "Regional",
-      "Bio"
-    ]
-  },
-  {
-    "name": "La Romantica",
-    "coords": [
-      48.01760,
-      9.49690
-    ],
-    "type": "Restaurant",
-    "tags": [
-      "Fair",
       "Regional"
-    ]
+    ],
+    "address": "Unterdorfweg 1 (Lampertsweiler)",
+    "website": "https://drehers-erlebnishof.de/"
   },
   {
-    "name": "Haus am Markt",
+    "name": "Knollhof",
     "coords": [
-      48.01700,
-      9.49790
+      48.00089,
+      9.41411
     ],
-    "type": "Restaurant",
+    "type": "Ab Hof-Verkauf",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Friedbachstraße 43 (Friedberg)",
+    "website": ""
+  },
+  {
+    "name": "Köberles Hofladen",
+    "coords": [
+      48.00667,
+      9.48069
+    ],
+    "type": "Ab Hof-Verkauf",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Haldenhof 2",
+    "website": ""
+  },
+  {
+    "name": "Miehlehof",
+    "coords": [
+      48.01876,
+      9.48467
+    ],
+    "type": "Ab Hof-Verkauf",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Miehlehof 1",
+    "website": ""
+  },
+  {
+    "name": "Rapps Hoflädele",
+    "coords": [
+      48.00323,
+      9.57249
+    ],
+    "type": "Ab Hof-Verkauf",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Hochstraße 30 (Renhardsweiler)",
+    "website": ""
+  },
+  {
+    "name": "Rauch's Ranch Hofladen",
+    "coords": [
+      48.04764,
+      9.52129
+    ],
+    "type": "Ab Hof-Verkauf",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Dürnauer Straße 23 (Kleintissen)",
+    "website": ""
+  },
+  {
+    "name": "s Lädele Hofladen",
+    "coords": [
+      47.99897,
+      9.43529
+    ],
+    "type": "Ab Hof-Verkauf",
     "tags": [
       "Bio",
       "Regional"
-    ]
+    ],
+    "address": "Eschendorfer Straße 16 (Wolfartsweiler)",
+    "website": ""
   },
   {
-    "name": "Kostbar",
+    "name": "Wildfleisch-Regiomat",
     "coords": [
-      48.01700,
-      9.49780
+      48.00414,
+      9.48767
+    ],
+    "type": "Ab Hof-Verkauf",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Am Feldrain 13 (Bogenweiler)",
+    "website": "https://www.wild-auf-wild.de/content/wild-vom-wilderer"
+  },
+  {
+    "name": "Zieg-o-mat Rieber",
+    "coords": [
+      48.00325,
+      9.57441
+    ],
+    "type": "Ab Hof-Verkauf",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Schwemmer Weg 10 (Renhardsweiler)",
+    "website": ""
+  },
+  {
+    "name": "Der Wäscheladen",
+    "coords": [
+      48.01731,
+      9.50074
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [
+      "Bio"
+    ],
+    "address": "Dreiköniggasse 4",
+    "website": ""
+  },
+  {
+    "name": "Weinhandel Henkel",
+    "coords": [
+      48.01736,
+      9.50087
+    ],
+    "type": "Lebensmittel",
+    "tags": [
+      "Bio",
+      "Fair",
+      "Regional"
+    ],
+    "address": "Dreiköniggasse 6",
+    "website": ""
+  },
+  {
+    "name": "Bäckerei Keim & Brecht",
+    "coords": [
+      48.01322,
+      9.5092
+    ],
+    "type": "Bäckerei",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Buchauer Straße 40",
+    "website": "https://www.keimundbrecht.de"
+  },
+  {
+    "name": "Bäckerei Mahl",
+    "coords": [
+      48.00814,
+      9.5114
+    ],
+    "type": "Bäckerei",
+    "tags": [
+      "Bio",
+      "Regional"
+    ],
+    "address": "Platzstraße 24",
+    "website": "https://www.backhausmahl.de/unsere-fachgeschaefte.html"
+  },
+  {
+    "name": "Bäckerei Schultes Beck",
+    "coords": [
+      48.02288,
+      9.45188
+    ],
+    "type": "Bäckerei",
+    "tags": [
+      "Fair",
+      "Regional"
+    ],
+    "address": "Saulgauer Straße 31/1 (Fulgenstadt)",
+    "website": "https://www.schultesbeck.com/"
+  },
+  {
+    "name": "Bäckerei Heim",
+    "coords": [
+      48.01615,
+      9.49959
+    ],
+    "type": "Bäckerei",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Eckstraße 7",
+    "website": "https://baeckerei-heim.de/"
+  },
+  {
+    "name": "Bäckerei Zoll",
+    "coords": [
+      48.00886,
+      9.50959
+    ],
+    "type": "Bäckerei",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Platzstraße 18",
+    "website": "https://www.baeckerei-zoll.de/"
+  },
+  {
+    "name": "AWG Mode",
+    "coords": [
+      48.02131,
+      9.49441
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [
+      "Fair"
+    ],
+    "address": "Friedrich-List-Straße 10, Salgo",
+    "website": "https://www.awg-mode.de/awg-mode-center-bad-saulgau"
+  },
+  {
+    "name": "Kauf by Naturata",
+    "coords": [
+      48.01573,
+      9.50254
+    ],
+    "type": "Lebensmittel",
+    "tags": [
+      "Bio",
+      "Fair",
+      "Regional"
+    ],
+    "address": "Friedrichstraße 7",
+    "website": "https://k-auf.de/"
+  },
+  {
+    "name": "ROFU-Kinderland",
+    "coords": [
+      48.0214,
+      9.49144
+    ],
+    "type": "Basteln, Spiel- und Schreibwaren",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Herbertinger Straße 38",
+    "website": "https://www.rofu.de/filialen/#!/l/bad-saulgau"
+  },
+  {
+    "name": "Norma",
+    "coords": [
+      48.01862,
+      9.49868
+    ],
+    "type": "Lebensmittel",
+    "tags": [
+      "Bio",
+      "Fair",
+      "Regional"
+    ],
+    "address": "Fuchsgasse 3",
+    "website": "https://www.norma-online.de/de/angebote/"
+  },
+  {
+    "name": "Bahnhofskiosk",
+    "coords": [
+      48.01402,
+      9.50079
+    ],
+    "type": "Bücher und Zeitschriften",
+    "tags": [],
+    "address": "Karlstraße 6",
+    "website": ""
+  },
+  {
+    "name": "Schwaaz Vere Buchhandlung",
+    "coords": [
+      48.01736,
+      9.49894
+    ],
+    "type": "Bücher und Zeitschriften",
+    "tags": [],
+    "address": "Hauptstraße 54",
+    "website": "https://www.schwaaz-vere.de"
+  },
+  {
+    "name": "dm Drogerie",
+    "coords": [
+      48.00887,
+      9.50857
+    ],
+    "type": "Drogerie",
+    "tags": [
+      "Bio",
+      "Fair",
+      "Regional"
+    ],
+    "address": "Platzstraße 22",
+    "website": "https://www.dm.de"
+  },
+  {
+    "name": "Fahrrad Neudörffer",
+    "coords": [
+      48.01401,
+      9.50274
+    ],
+    "type": "Sport und Freizeit",
+    "tags": [
+      "Fair",
+      "Regional"
+    ],
+    "address": "Hauptstraße 108-110",
+    "website": "https://www.neudoerffer-shop.de"
+  },
+  {
+    "name": "expert Bad Saulgau",
+    "coords": [
+      48.02183,
+      9.49381
+    ],
+    "type": "Elektro und Technik",
+    "tags": [],
+    "address": "Friedrich-List-Straße 15, Salgo",
+    "website": "https://www.expert.de"
+  },
+  {
+    "name": "Media@home Buck",
+    "coords": [
+      48.01674,
+      9.49931
+    ],
+    "type": "Elektro und Technik",
+    "tags": [],
+    "address": "Marktplatz 4",
+    "website": "https://www.mediaathome.de/bad-saulgau-buck"
+  },
+  {
+    "name": "tell-com GmbH",
+    "coords": [
+      48.01655,
+      9.50038
+    ],
+    "type": "Elektro und Technik",
+    "tags": [],
+    "address": "Hauptstraße 78",
+    "website": "https://tell-com.de/bad-saulgau"
+  },
+  {
+    "name": "Vodafone Shop",
+    "coords": [
+      48.01644,
+      9.5009
+    ],
+    "type": "Elektro und Technik",
+    "tags": [],
+    "address": "Hauptstraße 69",
+    "website": "https://shops.vodafone.de"
+  },
+  {
+    "name": "Antonius Apotheke",
+    "coords": [
+      48.01841,
+      9.50009
+    ],
+    "type": "Gesundheit",
+    "tags": [],
+    "address": "Oberamteistraße 1",
+    "website": "https://www.antonius-apotheke-saulgau.de/"
+  },
+  {
+    "name": "Apotheke Selbherr",
+    "coords": [
+      48.01608,
+      9.50049
+    ],
+    "type": "Gesundheit",
+    "tags": [],
+    "address": "Werderstraße 6",
+    "website": "https://www.apotheke-selbherr.de/"
+  },
+  {
+    "name": "Auric Hörgeräte",
+    "coords": [
+      48.01896,
+      9.50009
+    ],
+    "type": "Gesundheit",
+    "tags": [],
+    "address": "Kreuzgasse 4",
+    "website": "https://www.auric.de/"
+  },
+  {
+    "name": "Orthopädietechnik Kühn",
+    "coords": [
+      48.01567,
+      9.50147
+    ],
+    "type": "Gesundheit",
+    "tags": [],
+    "address": "Hauptstraße 96",
+    "website": "https://www.kuehn-ot.de"
+  },
+  {
+    "name": "Sanitätshaus Trapp",
+    "coords": [
+      48.01683,
+      9.50104
+    ],
+    "type": "Gesundheit",
+    "tags": [],
+    "address": "Hauptstraße 65",
+    "website": "www.sanitaetshaus-trapp.de"
+  },
+  {
+    "name": "Schmid Hör-Akustik",
+    "coords": [
+      48.01663,
+      9.50082
+    ],
+    "type": "Gesundheit",
+    "tags": [],
+    "address": "Hauptstraße 67",
+    "website": "https://schmidhoerakustik.de/bad-saulgau/"
+  },
+  {
+    "name": "Schwaben Apotheke",
+    "coords": [
+      48.01609,
+      9.50155
+    ],
+    "type": "Gesundheit",
+    "tags": [],
+    "address": "Hauptstraße 79",
+    "website": "https://schwaben-apotheke-saulgau.de/"
+  },
+  {
+    "name": "Vital-Apotheke",
+    "coords": [
+      48.01684,
+      9.50252
+    ],
+    "type": "Gesundheit",
+    "tags": [],
+    "address": "Kaiserstraße 58",
+    "website": "https://vitalapotheke24.de/"
+  },
+  {
+    "name": "Aldi",
+    "coords": [
+      48.00749,
+      9.50682
+    ],
+    "type": "Lebensmittel",
+    "tags": [
+      "Bio",
+      "Fair",
+      "Regional"
+    ],
+    "address": "Schwarzenbacher Straße 1",
+    "website": "https://filialen.aldi-sued.de"
+  },
+  {
+    "name": "Metzgerei Huber",
+    "coords": [
+      48.032,
+      9.50782
+    ],
+    "type": "Lebensmittel",
+    "tags": [
+      "Bio",
+      "Regional"
+    ],
+    "address": "Hauptstraße 109",
+    "website": "https://www.metzgerei-huber.com/"
+  },
+  {
+    "name": "Euro S - Markt",
+    "coords": [
+      48.00986,
+      9.49744
+    ],
+    "type": "Lebensmittel",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Bogenweiler Straße 1",
+    "website": "https://www.euro-smarkt.de/"
+  },
+  {
+    "name": "Netto",
+    "coords": [
+      48.01302,
+      9.50064
+    ],
+    "type": "Lebensmittel",
+    "tags": [
+      "Bio",
+      "Fair",
+      "Regional"
+    ],
+    "address": "Paradiesstraße 31",
+    "website": "https://www.netto-online.de"
+  },
+  {
+    "name": "Finkbeiner Getränkemarkt",
+    "coords": [
+      48.02213,
+      9.49554
+    ],
+    "type": "Lebensmittel",
+    "tags": [
+      "Bio",
+      "Regional"
+    ],
+    "address": "Moosheimer Straße 31",
+    "website": "https://finkbeiner.biz/"
+  },
+  {
+    "name": "MiMi's Kindermoden",
+    "coords": [
+      48.0179,
+      9.49868
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [
+      "Bio",
+      "Fair"
+    ],
+    "address": "Hauptstraße 39",
+    "website": "http://mimis-kindermoden.de/"
+  },
+  {
+    "name": "Kaufland",
+    "coords": [
+      48.00753,
+      9.51087
+    ],
+    "type": "Lebensmittel",
+    "tags": [
+      "Bio",
+      "Fair",
+      "Regional"
+    ],
+    "address": "Platzstraße 24",
+    "website": "https://filiale.kaufland.de"
+  },
+  {
+    "name": "Marco Family",
+    "coords": [
+      48.01742,
+      9.49999
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [
+      "Bio"
+    ],
+    "address": "Hauptstraße 47",
+    "website": ""
+  },
+  {
+    "name": "Lidl",
+    "coords": [
+      48.00973,
+      9.5092
+    ],
+    "type": "Lebensmittel",
+    "tags": [
+      "Bio",
+      "Fair",
+      "Regional"
+    ],
+    "address": "Platzstraße 20",
+    "website": "https://www.lidl.de"
+  },
+  {
+    "name": "Intersport Dietsche",
+    "coords": [
+      48.01769,
+      9.49864
+    ],
+    "type": "Sport und Freizeit",
+    "tags": [
+      "Fair",
+      "Regional"
+    ],
+    "address": "Hauptstraße 48",
+    "website": "https://www.intersport.de"
+  },
+  {
+    "name": "Ernsting's Family",
+    "coords": [
+      48.01775,
+      9.49888
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [
+      "Bio"
+    ],
+    "address": "Hauptstraße 50",
+    "website": "https://filialen.ernstings-family.de"
+  },
+  {
+    "name": "elriko - Feine Kost",
+    "coords": [
+      48.01719,
+      9.50023
+    ],
+    "type": "Lebensmittel",
+    "tags": [
+      "Bio",
+      "Fair",
+      "Regional"
+    ],
+    "address": "Hauptstraße 53",
+    "website": "https://www.elriko.de/"
+  },
+  {
+    "name": "Invito Damenbekleidung",
+    "coords": [
+      48.01704,
+      9.50063
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [
+      "Bio"
+    ],
+    "address": "Hauptstraße 57",
+    "website": "https://invito.store/"
+  },
+  {
+    "name": "Saulgau Markt",
+    "coords": [
+      48.01833,
+      9.49921
+    ],
+    "type": "Lebensmittel",
+    "tags": [],
+    "address": "Fuchsgasse 6",
+    "website": ""
+  },
+  {
+    "name": "Tchibo",
+    "coords": [
+      48.01727,
+      9.49984
+    ],
+    "type": "Lebensmittel",
+    "tags": [
+      "Bio",
+      "Fair"
+    ],
+    "address": "Hauptstraße 64",
+    "website": "https://www.tchibo.de"
+  },
+  {
+    "name": "Schuhaus Zembrod",
+    "coords": [
+      48.01723,
+      9.49983
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [
+      "Fair"
+    ],
+    "address": "Hauptstraße 66",
+    "website": "https://www.schuhhaus-zembrod.de"
+  },
+  {
+    "name": "boys and girls",
+    "coords": [
+      48.01725,
+      9.49969
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [
+      "Fair"
+    ],
+    "address": "Hauptstraße 68",
+    "website": "http://boys-and-girls-kinderschuh-bad-saulgau.de"
+  },
+  {
+    "name": "PUNKT. Männersache",
+    "coords": [
+      48.07323,
+      9.43794
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [
+      "Bio"
+    ],
+    "address": "Hauptstraße 71",
+    "website": "https://www.punkt-maennersache.de"
+  },
+  {
+    "name": "Bäckerei Bussen-Bäcker Traub",
+    "coords": [
+      48.0161,
+      9.50147
+    ],
+    "type": "Bäckerei",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Hauptstraße 77, Gerhart-Hauptmann-Str. 2",
+    "website": "https://www.baeckerei-traub.de/"
+  },
+  {
+    "name": "Boutique AnnLuis",
+    "coords": [
+      48.01579,
+      9.50167
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [],
+    "address": "Hauptstraße 87",
+    "website": "http://www.annluis.de/"
+  },
+  {
+    "name": "Metzgerei Manfred Frick",
+    "coords": [
+      48.01599,
+      9.5016
+    ],
+    "type": "Lebensmittel",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Hauptstraße 79",
+    "website": "https://www.metzgerei-frick.de/"
+  },
+  {
+    "name": "Crazy Style Damenbekleidung",
+    "coords": [
+      48.01687,
+      9.49934
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [],
+    "address": "Bachstraße 7",
+    "website": "https://www.facebook.com/AbendmodeCRAZYSTYLE/?_rdr"
+  },
+  {
+    "name": "Deichmann Schuhe",
+    "coords": [
+      48.05164,
+      9.47416
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [],
+    "address": "Friedrich-List-Straße 10, Salgo",
+    "website": "https://stores.deichmann.com/de-de/index.html"
+  },
+  {
+    "name": "Queens",
+    "coords": [
+      48.01636,
+      9.50067
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [
+      "Bio",
+      "Fair"
+    ],
+    "address": "Hauptstraße 82",
+    "website": ""
+  },
+  {
+    "name": "SecondHandBoutique",
+    "coords": [
+      48.01799,
+      9.50082
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [],
+    "address": "Kirchplatz 6",
+    "website": "https://saulgau.github.io/shb/"
+  },
+  {
+    "name": "Leomi Boutique",
+    "coords": [
+      48.0162,
+      9.50109
+    ],
+    "type": "Basteln, Spiel- und Schreibwaren",
+    "tags": [
+      "Fair",
+      "Regional"
+    ],
+    "address": "Hauptstraße 90",
+    "website": "https://www.leomibabykidsboutique.de/"
+  },
+  {
+    "name": "G.I. Women Mode",
+    "coords": [
+      48.01702,
+      9.50054
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [],
+    "address": "Hauptstraße 61",
+    "website": ""
+  },
+  {
+    "name": "Hummler Lederwaren",
+    "coords": [
+      48.01595,
+      9.50129
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [],
+    "address": "Hauptstraße 92",
+    "website": ""
+  },
+  {
+    "name": "Weltladen",
+    "coords": [
+      48.01591,
+      9.50155
+    ],
+    "type": "Lebensmittel",
+    "tags": [
+      "Bio",
+      "Fair"
+    ],
+    "address": "Hauptstraße 94",
+    "website": "https://www.fairhandelshaus.de"
+  },
+  {
+    "name": "KIK",
+    "coords": [
+      48.00847,
+      9.50741
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [
+      "Bio",
+      "Fair"
+    ],
+    "address": "Platzstraße 22",
+    "website": "https://www.kik.de/"
+  },
+  {
+    "name": "Näh-Ecke",
+    "coords": [
+      48.01452,
+      9.50267
+    ],
+    "type": "Basteln, Spiel- und Schreibwaren",
+    "tags": [
+      "Bio",
+      "Fair",
+      "Regional"
+    ],
+    "address": "Hindenburgstraße 1",
+    "website": "https://www.naeh-ecke.de/"
+  },
+  {
+    "name": "La Vie",
+    "coords": [
+      48.01623,
+      9.50111
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [],
+    "address": "Werderstraße 1",
+    "website": ""
+  },
+  {
+    "name": "Bäckerei-Konditorei-Café Bochtler",
+    "coords": [
+      48.01715,
+      9.50243
+    ],
+    "type": "Bäckerei",
+    "tags": [
+      "Fair",
+      "Regional"
+    ],
+    "address": "Kaiserstraße 58",
+    "website": "https://baeckerei-konditorei-bochtler.de/"
+  },
+  {
+    "name": "La Boom Mode",
+    "coords": [
+      48.01807,
+      9.49949
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [
+      "Bio",
+      "Fair"
+    ],
+    "address": "Kreuzgasse 2",
+    "website": "https://www.la-boom.com"
+  },
+  {
+    "name": "Kleinod wohnaccessoires",
+    "coords": [
+      48.01699,
+      9.49867
+    ],
+    "type": "Wohnen und Deko",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Lindenstraße 2",
+    "website": ""
+  },
+  {
+    "name": "Fressnapf Bad Saulgau",
+    "coords": [
+      48.04906,
+      9.50548
+    ],
+    "type": "Spezialbedarf",
+    "tags": [
+      "Bio"
+    ],
+    "address": "Max-Eyth-Straße 10, Salgo",
+    "website": "https://www.fressnapf.de/stores/fressnapf-bad-saulgau/"
+  },
+  {
+    "name": "Schuh Schweitzer",
+    "coords": [
+      48.01765,
+      9.49937
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [],
+    "address": "Marktplatz 3",
+    "website": "https://schuh-schweizer.de/"
+  },
+  {
+    "name": "Rewe",
+    "coords": [
+      48.02005,
+      9.49571
+    ],
+    "type": "Lebensmittel",
+    "tags": [
+      "Bio",
+      "Fair",
+      "Regional"
+    ],
+    "address": "Max-Eyth-Straße 6, Salgo",
+    "website": "REWE Markt Bad Saulgau - Max-Eyth-Str. 6"
+  },
+  {
+    "name": "Step by Step Schuhe",
+    "coords": [
+      48.01631,
+      9.50094
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [
+      "Fair"
+    ],
+    "address": "Hauptstraße 88",
+    "website": ""
+  },
+  {
+    "name": "Takko Mode",
+    "coords": [
+      48.00911,
+      9.5055
+    ],
+    "type": "Mode und Bekleidung",
+    "tags": [
+      "Fair"
+    ],
+    "address": "Altshauser Straße  10",
+    "website": "https://www.takko.com/de-de/stores"
+  },
+  {
+    "name": "Augenoptik Nerlich",
+    "coords": [
+      48.01783,
+      9.49844
+    ],
+    "type": "Optik, Schmuck und Foto",
+    "tags": [],
+    "address": "Hauptstraße 46",
+    "website": "https://www.nerlich-augenoptik.de/"
+  },
+  {
+    "name": "Bollmannhaus",
+    "coords": [
+      48.0174,
+      9.49882
+    ],
+    "type": "Optik, Schmuck und Foto",
+    "tags": [],
+    "address": "Hauptstraße 52",
+    "website": "https://www.bollmannhaus.de/"
+  },
+  {
+    "name": "Fielmann",
+    "coords": [
+      48.01702,
+      9.50006
+    ],
+    "type": "Optik, Schmuck und Foto",
+    "tags": [],
+    "address": "Hauptstraße 72",
+    "website": "https://www.fielmann.de/niederlassungen/bad-saulgau"
+  },
+  {
+    "name": "Fokus Fotografie",
+    "coords": [
+      48.00137,
+      9.54692
+    ],
+    "type": "Optik, Schmuck und Foto",
+    "tags": [],
+    "address": "Vogelsangweg 5 (Lampertsweiler)",
+    "website": "https://fokusfotografie.de/"
+  },
+  {
+    "name": "Foto Mielke",
+    "coords": [
+      48.016,
+      9.50102
+    ],
+    "type": "Optik, Schmuck und Foto",
+    "tags": [],
+    "address": "Werderstraße  1",
+    "website": "foto-mielke.de"
+  },
+  {
+    "name": "Pro Optik",
+    "coords": [
+      48.01681,
+      9.50016
+    ],
+    "type": "Optik, Schmuck und Foto",
+    "tags": [],
+    "address": "Hauptstraße 76",
+    "website": "https://www.prooptik.de/optik-zentrum/bad-saulgau"
+  },
+  {
+    "name": "Baywa Agrar",
+    "coords": [
+      48.01287,
+      9.50078
+    ],
+    "type": "Spezialbedarf",
+    "tags": [
+      "Bio",
+      "Fair",
+      "Regional"
+    ],
+    "address": "Paradiesstraße 35",
+    "website": "https://www.baywa.de"
+  },
+  {
+    "name": "Baywa Baustoffe",
+    "coords": [
+      48.02464,
+      9.49694
+    ],
+    "type": "Spezialbedarf",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Martin-Staud-Straße 24",
+    "website": "https://www.baywa-baustoffe.de"
+  },
+  {
+    "name": "Das Steinreich",
+    "coords": [
+      48.01816,
+      9.49923
+    ],
+    "type": "Spezialbedarf",
+    "tags": [],
+    "address": "Kreuzgasse 3",
+    "website": "https://www.instagram.com/das.steinreich?igsh=MTNidXlzYXhncWU0cA%3D%3D"
+  },
+  {
+    "name": "Drogerie Müller",
+    "coords": [
+      48.02163,
+      9.4957
+    ],
+    "type": "Drogerie",
+    "tags": [
+      "Bio",
+      "Fair",
+      "Regional"
+    ],
+    "address": "Moosheimer Straße 29",
+    "website": "https://www.mueller.de/storefinder/"
+  },
+  {
+    "name": "GECO GmbH",
+    "coords": [
+      48.00779,
+      9.51141
+    ],
+    "type": "Spezialbedarf",
+    "tags": [],
+    "address": "Platzstraße 24",
+    "website": "https://www.gecode.de/kunden/unsere-filialen"
+  },
+  {
+    "name": "Kreativ und Druck",
+    "coords": [
+      48.00787,
+      9.50704
+    ],
+    "type": "Spezialbedarf",
+    "tags": [],
+    "address": "Schwarzenbacher Straße 1",
+    "website": "https://kreativ-u-druck.com/"
+  },
+  {
+    "name": "Musik Markt Bad Saulgau",
+    "coords": [
+      48.02411,
+      9.49431
+    ],
+    "type": "Spezialbedarf",
+    "tags": [],
+    "address": "Moosheimer Straße 45",
+    "website": "https://mmbs.de/"
+  },
+  {
+    "name": "Schuler Edelmetalle",
+    "coords": [
+      48.0164,
+      9.50036
+    ],
+    "type": "Spezialbedarf",
+    "tags": [],
+    "address": "Paradiesstraße 3",
+    "website": "https://www.schulergmbh.de/"
+  },
+  {
+    "name": "Tabak Sturm",
+    "coords": [
+      48.01808,
+      9.49833
+    ],
+    "type": "Spezialbedarf",
+    "tags": [],
+    "address": "Hauptstraße 44",
+    "website": ""
+  },
+  {
+    "name": "toom Baumarkt",
+    "coords": [
+      48.00897,
+      9.50931
+    ],
+    "type": "Spezialbedarf",
+    "tags": [
+      "Bio",
+      "Fair"
+    ],
+    "address": "Platzstraße 18",
+    "website": "https://toom.de/"
+  },
+  {
+    "name": "Pennymarkt",
+    "coords": [
+      48.02153,
+      9.49576
+    ],
+    "type": "Lebensmittel",
+    "tags": [
+      "Bio",
+      "Fair",
+      "Regional"
+    ],
+    "address": "Moosheimer Straße 29",
+    "website": "https://www.penny.de"
+  },
+  {
+    "name": "Bäckerei Walter",
+    "coords": [
+      48.01973,
+      9.49727
+    ],
+    "type": "Bäckerei",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Moosheimer Straße 3",
+    "website": "https://matthias-walter-baeckerei-und-konditorei.9gg.de/"
+  },
+  {
+    "name": "Rund ums Rad",
+    "coords": [
+      48.01524,
+      9.50243
+    ],
+    "type": "Sport und Freizeit",
+    "tags": [],
+    "address": "Hauptstraße 95",
+    "website": "https://www.rur-rolf-schmid.de/"
+  },
+  {
+    "name": "Zweirad Sättele",
+    "coords": [
+      48.01424,
+      9.50869
+    ],
+    "type": "Sport und Freizeit",
+    "tags": [],
+    "address": "Elisabethenstraße 12",
+    "website": "https://www.fahrradsaettele.de/"
+  },
+  {
+    "name": "abellimento",
+    "coords": [
+      48.01712,
+      9.49861
+    ],
+    "type": "Wohnen und Deko",
+    "tags": [],
+    "address": "Lindenstraße 4",
+    "website": ""
+  },
+  {
+    "name": "Blumen Peter",
+    "coords": [
+      48.01627,
+      9.5095
+    ],
+    "type": "Wohnen und Deko",
+    "tags": [
+      "Fair",
+      "Regional"
+    ],
+    "address": "Liebfrauenstraße 43",
+    "website": "https://www.blumen-peter.com/"
+  },
+  {
+    "name": "Braun Möbel",
+    "coords": [
+      48.00555,
+      9.50809
+    ],
+    "type": "Wohnen und Deko",
+    "tags": [
+      "Bio"
+    ],
+    "address": "Schwarzenbacher Straße 9",
+    "website": "https://www.braun-moebel.de/"
+  },
+  {
+    "name": "Engler Wohnen und Objekt",
+    "coords": [
+      48.0154,
+      9.50171
+    ],
+    "type": "Wohnen und Deko",
+    "tags": [],
+    "address": "Hauptstraße 100",
+    "website": "https://www.engler-wohnenundobjekt.de"
+  },
+  {
+    "name": "blütenzeit",
+    "coords": [
+      48.03224,
+      9.5046
+    ],
+    "type": "Wohnen und Deko",
+    "tags": [],
+    "address": "Hauptstraße 83",
+    "website": ""
+  },
+  {
+    "name": "JYSK",
+    "coords": [
+      48.02152,
+      9.49445
+    ],
+    "type": "Wohnen und Deko",
+    "tags": [],
+    "address": "Friedrich-List-Straße 10, Salgo",
+    "website": "https://jysk.de/"
+  },
+  {
+    "name": "Kuloer conceptstore",
+    "coords": [
+      48.01662,
+      9.50009
+    ],
+    "type": "Wohnen und Deko",
+    "tags": [
+      "Fair",
+      "Regional"
+    ],
+    "address": "Paradiesstraße 2",
+    "website": "https://www.kuloer-conceptstore.de/"
+  },
+  {
+    "name": "Keckeisen Getränkefachmarkt",
+    "coords": [
+      48.01668,
+      9.50132
+    ],
+    "type": "Lebensmittel",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Pfarrstraße 26",
+    "website": ""
+  },
+  {
+    "name": "KWB Küche Wohnen Bad",
+    "coords": [
+      48.01348,
+      9.49995
+    ],
+    "type": "Wohnen und Deko",
+    "tags": [],
+    "address": "Paradiesstraße 27",
+    "website": "https://kwb-riedlingen.de"
+  },
+  {
+    "name": "Matratzen Concord",
+    "coords": [
+      48.0231,
+      9.48718
+    ],
+    "type": "Wohnen und Deko",
+    "tags": [],
+    "address": "Herbertinger Straße 56",
+    "website": "https://www.matratzen-concord-filialen.de/"
+  },
+  {
+    "name": "Pfänder Malerfachgeschäft",
+    "coords": [
+      48.01838,
+      9.49803
+    ],
+    "type": "Wohnen und Deko",
+    "tags": [],
+    "address": "Hauptstraße 34",
+    "website": "https://maler-pfaender.de"
+  },
+  {
+    "name": "Raumausstattung Schmötzer",
+    "coords": [
+      48.01637,
+      9.5011
+    ],
+    "type": "Wohnen und Deko",
+    "tags": [],
+    "address": "Hauptstraße 73",
+    "website": "https://www.schmoetzer-raum.de/"
+  },
+  {
+    "name": "Steffi's Blumengarage",
+    "coords": [
+      48.00408,
+      9.57048
+    ],
+    "type": "Wohnen und Deko",
+    "tags": [
+      "Fair",
+      "Regional"
+    ],
+    "address": "Karl-Fiesel-Straße 11 (Renhardsweiler)",
+    "website": ""
+  },
+  {
+    "name": "Weißenrieder Betten und Matratzen",
+    "coords": [
+      48.01366,
+      9.49954
+    ],
+    "type": "Wohnen und Deko",
+    "tags": [],
+    "address": "Paradiesstraße 40",
+    "website": "https://www.weissenrieder-bettenhaus.de/"
+  },
+  {
+    "name": "Mrs. Greenery",
+    "coords": [
+      48.01652,
+      9.50059
+    ],
+    "type": "Wohnen und Deko",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Hauptstraße 80",
+    "website": "https://mrs-greenery.de/"
+  },
+  {
+    "name": "Bohnenstengel",
+    "coords": [
+      48.01374,
+      9.50181
+    ],
+    "type": "Bar und Kneipe",
+    "tags": [
+      "Bio",
+      "Regional"
+    ],
+    "address": "Karlstraße 11",
+    "website": "http://www.bohnenstengel-slg.de/"
+  },
+  {
+    "name": "Discothek Mausefalle",
+    "coords": [
+      48.02493,
+      9.4992
+    ],
+    "type": "Bar und Kneipe",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Martin-Staud-Straße 12",
+    "website": "http://mausefalle-badsaulgau.com/"
+  },
+  {
+    "name": "Dreikönig Stüble",
+    "coords": [
+      48.01711,
+      9.50043
+    ],
+    "type": "Bar und Kneipe",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Hauptstraße 55",
+    "website": "https://www.dreikoenig-badsaulgau.de/"
+  },
+  {
+    "name": "Franziskaner",
+    "coords": [
+      48.01635,
+      9.496332
+    ],
+    "type": "Bar und Kneipe",
+    "tags": [
+      "Bio",
+      "Regional"
+    ],
+    "address": "Lindenstraße 15",
+    "website": "http://franziskaner.online/"
+  },
+  {
+    "name": "Getränke Bar Happy Quick",
+    "coords": [
+      48.01951,
+      9.49531
+    ],
+    "type": "Bar und Kneipe",
+    "tags": [],
+    "address": "Herbertinger Straße 11",
+    "website": ""
+  },
+  {
+    "name": "No Name",
+    "coords": [
+      48.01629,
+      9.49951
+    ],
+    "type": "Bar und Kneipe",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Bachstraße 13",
+    "website": ""
+  },
+  {
+    "name": "Schiff",
+    "coords": [
+      48.0173,
+      9.49767
+    ],
+    "type": "Bar und Kneipe",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Werderstraße 27",
+    "website": ""
+  },
+  {
+    "name": "Sportsbar",
+    "coords": [
+      48.023,
+      9.48724
+    ],
+    "type": "Bar und Kneipe",
+    "tags": [],
+    "address": "Herbertinger Straße 56",
+    "website": ""
+  },
+  {
+    "name": "Zum Bösen Onkel",
+    "coords": [
+      48.0166,
+      9.50107
+    ],
+    "type": "Bar und Kneipe",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Pfarrstraße 26",
+    "website": "https://www.zumboesenonkel.de/"
+  },
+  {
+    "name": "Zum Sternen",
+    "coords": [
+      48.01947,
+      9.50316
+    ],
+    "type": "Bar und Kneipe",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Schützenstraße 37",
+    "website": ""
+  },
+  {
+    "name": "Café Kostbar",
+    "coords": [
+      48.01743,
+      9.49967
+    ],
+    "type": "Café",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Marktplatz 2",
+    "website": "https://kostbar-bad-saulgau.jimdofree.com"
+  },
+  {
+    "name": "Café Rosengarten",
+    "coords": [
+      48.01574,
+      9.50249
     ],
     "type": "Café",
     "tags": [
       "Fair",
-      "Bio"
-    ]
+      "Regional"
+    ],
+    "address": "Friedrichstraße 6",
+    "website": "https://baeckerei-konditorei-bochtler.de/standorte/"
   },
   {
-    "name": "Ochsen Steakhaus",
+    "name": "Schillers Café und Garten",
     "coords": [
-      48.01750,
-      9.49910
+      48.01787,
+      9.49169
+    ],
+    "type": "Café",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Kirchberg 2",
+    "website": "https://www.schillerssaulgau.de/"
+  },
+  {
+    "name": "Café Wundertüte",
+    "coords": [
+      48.01732,
+      9.5005
+    ],
+    "type": "Café",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Hauptstraße 55",
+    "website": "https://www.instagram.com/wundertuete.slg/"
+  },
+  {
+    "name": "Eiscafé Eisboutique",
+    "coords": [
+      48.01764171466206,
+      9.499615866247405
+    ],
+    "type": "Café",
+    "tags": [],
+    "address": "Marktplatz 3/5",
+    "website": ""
+  },
+  {
+    "name": "Eiscafé Venedig",
+    "coords": [
+      48.01572,
+      9.501604
+    ],
+    "type": "Café",
+    "tags": [],
+    "address": "Hauptstraße 96",
+    "website": "https://www.facebook.com/venedigbadsaulgau"
+  },
+  {
+    "name": "Klostercafé Sießen",
+    "coords": [
+      48.00069,
+      9.47535
+    ],
+    "type": "Café",
+    "tags": [
+      "Bio",
+      "Fair",
+      "Regional"
+    ],
+    "address": "Kloster Sießen 13 (Sießen)",
+    "website": "https://www.klostersiessen.de/kunst-und-kultur/cafe-im-klosterhof/"
+  },
+  {
+    "name": "KSK Café",
+    "coords": [
+      48.01583,
+      9.50058
+    ],
+    "type": "Café",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Werderstraße 3",
+    "website": "https://www.instagram.com/cafe_dacris?igsh=aG42N3FiOW1nY2I3&utm_source=qr"
+  },
+  {
+    "name": "Bey Kebap Haus",
+    "coords": [
+      48.01972,
+      9.49743
+    ],
+    "type": "Imbiss, Fastfood",
+    "tags": [],
+    "address": "Moosheimer Straße 4",
+    "website": "https://krediportal.com/bey-kebap-haus-agldd34"
+  },
+  {
+    "name": "Cinar's Feinkost",
+    "coords": [
+      48.00804,
+      9.51153
+    ],
+    "type": "Imbiss, Fastfood",
+    "tags": [],
+    "address": "Platzstraße 24",
+    "website": "https://cinars-feinkost.metro.biz/"
+  },
+  {
+    "name": "City Kebap Pizza",
+    "coords": [
+      48.01704,
+      9.49902
+    ],
+    "type": "Imbiss, Fastfood",
+    "tags": [],
+    "address": "Bachstraße 2",
+    "website": ""
+  },
+  {
+    "name": "Mc Donalds",
+    "coords": [
+      48.02145,
+      9.48896
+    ],
+    "type": "Imbiss, Fastfood",
+    "tags": [],
+    "address": "Herbertinger Straße 45",
+    "website": "https://www.mcdonalds.com/"
+  },
+  {
+    "name": "Pizza und Kebap Oase",
+    "coords": [
+      48.01842,
+      9.50004
+    ],
+    "type": "Imbiss, Fastfood",
+    "tags": [],
+    "address": "Oberamteistraße 6",
+    "website": ""
+  },
+  {
+    "name": "Royal 52 Pizza Kebap",
+    "coords": [
+      48.01126,
+      9.49865
+    ],
+    "type": "Imbiss, Fastfood",
+    "tags": [],
+    "address": "Sießener Straße 14",
+    "website": "https://royal52-bad-saulgau.eatbu.com/?lang=de"
+  },
+  {
+    "name": "SUBWAY",
+    "coords": [
+      48.05106,
+      9.47647
+    ],
+    "type": "Imbiss, Fastfood",
+    "tags": [],
+    "address": "Herbertinger Straße 56",
+    "website": "https://restaurants.subway.com"
+  },
+  {
+    "name": "Anh Bay Asia Bistro",
+    "coords": [
+      48.01404,
+      9.49979
+    ],
+    "type": "Restaurant",
+    "tags": [],
+    "address": "Paradiesstraße 23",
+    "website": ""
+  },
+  {
+    "name": "Asia Hirsch",
+    "coords": [
+      48.01686,
+      9.50016
+    ],
+    "type": "Restaurant",
+    "tags": [],
+    "address": "Hauptstraße 74",
+    "website": "Menue - Japanisches Restaurant mit Fusionküche"
+  },
+  {
+    "name": "Athen",
+    "coords": [
+      48.0193,
+      9.49774
+    ],
+    "type": "Restaurant",
+    "tags": [],
+    "address": "Hauptstraße 23",
+    "website": "https://www.athen-badsaulgau.de/"
+  },
+  {
+    "name": "Baffo Italian Food",
+    "coords": [
+      48.01732,
+      9.49949
     ],
     "type": "Restaurant",
     "tags": [
-      "Regional",
-      "Fair",
-      "Bio"
-    ]
+      "Regional"
+    ],
+    "address": "Marktplatz 4",
+    "website": "https://www.baffoitalianrestaurant.com/"
   },
   {
-    "name": "Rewe City",
+    "name": "Da Antonella",
     "coords": [
-      48.01800,
-      9.49850
+      48.00401,
+      9.57296
     ],
-    "type": "Lebensmittel",
+    "type": "Restaurant",
     "tags": [
       "Regional"
-    ]
+    ],
+    "address": "Hochstraße 37",
+    "website": "https://www.zumhasen.de/"
   },
   {
-    "name": "BioMarkt",
+    "name": "Gasthaus Bürgerstüble",
     "coords": [
-      48.01680,
-      9.49720
+      48.01631,
+      9.5024
     ],
-    "type": "Lebensmittel",
+    "type": "Restaurant",
     "tags": [
-      "Bio"
-    ]
+      "Regional"
+    ],
+    "address": "Blauwstraße 12",
+    "website": ""
   },
   {
-    "name": "Bäckerei Müller",
+    "name": "Gaststätte Schwarzer Adler",
     "coords": [
-      48.01720,
-      9.49900
+      48.01799,
+      9.49892
     ],
-    "type": "Lebensmittel",
+    "type": "Restaurant",
+    "tags": [
+      "Fair",
+      "Bio",
+      "Regional"
+    ],
+    "address": "Hauptstraße 41",
+    "website": "https://schwarzeradler-bs.de/"
+  },
+  {
+    "name": "Golfclub Restaurant",
+    "coords": [
+      47.97942,
+      9.48688
+    ],
+    "type": "Restaurant",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Koppelweg 103 (Bolstern)",
+    "website": "https://www.gc-bs.de/restaurant/"
+  },
+  {
+    "name": "Kim-Wok",
+    "coords": [
+      48.05425,
+      9.47175
+    ],
+    "type": "Restaurant",
+    "tags": [],
+    "address": "Hauptstraße 35",
+    "website": ""
+  },
+  {
+    "name": "Kleber Post",
+    "coords": [
+      48.01524,
+      9.501
+    ],
+    "type": "Restaurant",
     "tags": [
       "Bio",
       "Regional"
-    ]
+    ],
+    "address": "Poststraße 1",
+    "website": "https://www.kleberpost.de/de/geniessen/"
   },
   {
-    "name": "Apotheke am Markt",
+    "name": "La Romantica",
     "coords": [
-      48.01710,
-      9.49760
+      48.01643,
+      9.50177
     ],
-    "type": "Gesundheit",
-    "tags": [
-      "Regional"
-    ]
+    "type": "Restaurant",
+    "tags": [],
+    "address": "Blauwstraße 1",
+    "website": ""
   },
   {
-    "name": "Reha Zentrum",
+    "name": "Ochsen Restaurant & Steakhaus",
     "coords": [
-      48.01690,
-      9.49880
+      48.0164,
+      9.50012
     ],
-    "type": "Gesundheit",
+    "type": "Restaurant",
     "tags": [
       "Regional"
-    ]
+    ],
+    "address": "Paradiesstraße 6",
+    "website": "https://ochsen-bad-saulgau.de/"
+  },
+  {
+    "name": "Pizzeria Alte Linde",
+    "coords": [
+      48.01709,
+      9.49812
+    ],
+    "type": "Restaurant",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Lindenstraße 10",
+    "website": "https://www.pizzeria-altelinde.de/"
+  },
+  {
+    "name": "Restaurant Café Haus am Markt",
+    "coords": [
+      48.01772,
+      9.49948
+    ],
+    "type": "Restaurant",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Marktplatz 1",
+    "website": "https://www.restaurant-bad-saulgau.de/"
+  },
+  {
+    "name": "Restaurant La Terrazza",
+    "coords": [
+      48.01354,
+      9.50193
+    ],
+    "type": "Restaurant",
+    "tags": [],
+    "address": "Karlstraße 13",
+    "website": "https://www.komforthotels.de/restaurant"
+  },
+  {
+    "name": "RIGG'S Burger & Grill",
+    "coords": [
+      48.02891,
+      9.50555
+    ],
+    "type": "Restaurant",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Glockeneichweg 134",
+    "website": "https://www.riggs-burger.com/rigg-s-bad-saulgau"
+  },
+  {
+    "name": "Seestüble",
+    "coords": [
+      48.00819,
+      9.45915
+    ],
+    "type": "Restaurant",
+    "tags": [
+      "Bio",
+      "Regional"
+    ],
+    "address": "Wagenhausen 3 (Sießen)",
+    "website": ""
+  },
+  {
+    "name": "Thermalbad Restaurant",
+    "coords": [
+      48.01618,
+      9.48725
+    ],
+    "type": "Restaurant",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Am Schönen Moos 1",
+    "website": "https://www.sonnenhof-therme.de/sonnenhof-therme/restaurant/"
+  },
+  {
+    "name": "Trattoria zum Bach",
+    "coords": [
+      48.01786,
+      9.49863
+    ],
+    "type": "Restaurant",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Hauptstraße 48",
+    "website": "https://www.facebook.com/trattoria.alcapone?ref=bookmarks"
+  },
+  {
+    "name": "Wirtshaus Paradies",
+    "coords": [
+      48.01189,
+      9.50042
+    ],
+    "type": "Restaurant",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Paradiesstraße 43",
+    "website": "https://www.wirtshaus-paradies.de/de/"
+  },
+  {
+    "name": "Bäckerei Bussen-Bäcker Traub",
+    "coords": [
+      48.00973,
+      9.49746
+    ],
+    "type": "Bäckerei",
+    "tags": [
+      "Regional"
+    ],
+    "address": "Gerhart-Hauptmann-Str. 2",
+    "website": "https://www.baeckerei-traub.de/"
   }
 ]
