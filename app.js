@@ -12,8 +12,17 @@ function startApp() {
 
   /* Marker anlegen */
   places.forEach(p => {
+    const parts = [
+      `<b>${p.name}</b>`,
+      p.type,
+      (p.tags && p.tags.length) ? p.tags.join(', ') : null,
+      p.address || null,
+      p.website ? `<a href="${p.website}" target="_blank" rel="noopener">Webseite</a>` : null
+    ];
+    const popupContent = parts.filter(Boolean).join('<br>');
+
     const m = L.marker(p.coords)
-      .bindPopup(`<b>${p.name}</b><br>${p.type}${p.tags.length ? '<br>' + p.tags.join(', ') : ''}`);
+    .bindPopup(popupContent);
     m.type = p.type;
     m.tags = p.tags;
     m.addTo(map);
@@ -25,7 +34,7 @@ function startApp() {
     map.setView(places[0].coords, 15);
   } else {
     const bounds = L.latLngBounds(places.map(p => p.coords));
-    map.fitBounds(bounds.pad(0.05));      // 5 % Rand
+    map.fitBounds(bounds.pad(0.01));      // 5 % Rand
   }
 
   buildFilters();
@@ -33,12 +42,12 @@ function startApp() {
 
 /* ---------- Filter-Oberfläche ---------- */
 function buildFilters() {
-  const types = [...new Set(places.map(p => p.type))];     // remove duplicates
-  const tags  = [...new Set(places.flatMap(p => p.tags))]; // remove duplicates
+  const types = [...new Set(places.map(p => p.type))].sort();     // remove duplicates
+  const tags  = [...new Set(places.flatMap(p => p.tags))].sort(); // remove duplicates
 
   const ctrl = document.getElementById('control-panel');
   ctrl.innerHTML =
-    buildSection('Typ', types, 'type-filter', true) +
+    buildSection('Typ', types, 'type-filter', false) +
     buildSection('Nachhaltigkeit', tags, 'tag-filter', false);
 
   ctrl.addEventListener('change', updateFilters);
@@ -63,7 +72,7 @@ function updateFilters() {
   const activeTags  = [...document.querySelectorAll('.tag-filter:checked')].map(cb => cb.value);
 
   markers.forEach(m => {
-    const typeOk = activeTypes.includes(m.type);
+    const typeOk = activeTypes.length ===0 || activeTypes.includes(m.type);
     const tagOk  = activeTags.length === 0 || activeTags.every(t => m.tags.includes(t));
     if (typeOk && tagOk) {
       m.addTo(map);
