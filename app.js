@@ -1,12 +1,11 @@
 /* ---------- Globale Variablen ---------- */
-let places = [];
+let places = [];          // wird durch places.json initialisiert
 let map;                  // Leaflet-Map-Instanz
-const markers = [];
+const markers = [];       // Marker-Referenzen für Filter
 
 /* ---------- App-Start ---------- */
 function startApp() {
-  /* Karte initialisieren */
-  map = L.map('map').setView([48.0173, 9.4980], 15);
+  map = L.map('map');
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; OpenStreetMap-Mitwirkende'
   }).addTo(map);
@@ -15,19 +14,27 @@ function startApp() {
   places.forEach(p => {
     const m = L.marker(p.coords)
       .bindPopup(`<b>${p.name}</b><br>${p.type}${p.tags.length ? '<br>' + p.tags.join(', ') : ''}`);
-    m.type = p.type;   // für Filter
+    m.type = p.type;
     m.tags = p.tags;
     m.addTo(map);
     markers.push(m);
   });
+
+  /* ---- Kartenausschnitt automatisch anpassen ---- */
+  if (places.length === 1) {
+    map.setView(places[0].coords, 15);
+  } else {
+    const bounds = L.latLngBounds(places.map(p => p.coords));
+    map.fitBounds(bounds.pad(0.05));      // 5 % Rand
+  }
 
   buildFilters();
 }
 
 /* ---------- Filter-Oberfläche ---------- */
 function buildFilters() {
-  const types = [...new Set(places.map(p => p.type))];           // eindeutige Typen
-  const tags  = [...new Set(places.flatMap(p => p.tags))];       // eindeutige Tags
+  const types = [...new Set(places.map(p => p.type))];     // remove duplicates
+  const tags  = [...new Set(places.flatMap(p => p.tags))]; // remove duplicates
 
   const ctrl = document.getElementById('control-panel');
   ctrl.innerHTML =
