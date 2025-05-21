@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Schwarzer Adler",
+    "coords": [
+      48.01772,
+      9.49899
+    ],
+    "type": "Restaurant",
+    "tags": [
+      "Regional",
+      "Fair"
+    ]
+  },
+  {
+    "name": "Bürgerstüble",
+    "coords": [
+      48.01740,
+      9.49750
+    ],
+    "type": "Restaurant",
+    "tags": [
+      "Regional"
+    ]
+  },
+  {
+    "name": "Kleber Post",
+    "coords": [
+      48.01710,
+      9.49800
+    ],
+    "type": "Restaurant",
+    "tags": [
+      "Regional",
+      "Bio"
+    ]
+  },
+  {
+    "name": "La Romantica",
+    "coords": [
+      48.01760,
+      9.49690
+    ],
+    "type": "Restaurant",
+    "tags": [
+      "Fair",
+      "Regional"
+    ]
+  },
+  {
+    "name": "Haus am Markt",
+    "coords": [
+      48.01700,
+      9.49790
+    ],
+    "type": "Restaurant",
+    "tags": [
+      "Bio",
+      "Regional"
+    ]
+  },
+  {
+    "name": "Kostbar",
+    "coords": [
+      48.01700,
+      9.49780
+    ],
+    "type": "Café",
+    "tags": [
+      "Fair",
+      "Bio"
+    ]
+  },
+  {
+    "name": "Ochsen Steakhaus",
+    "coords": [
+      48.01750,
+      9.49910
+    ],
+    "type": "Restaurant",
+    "tags": [
+      "Regional",
+      "Fair",
+      "Bio"
+    ]
+  },
+  {
+    "name": "Rewe City",
+    "coords": [
+      48.01800,
+      9.49850
+    ],
+    "type": "Lebensmittel",
+    "tags": [
+      "Regional"
+    ]
+  },
+  {
+    "name": "BioMarkt",
+    "coords": [
+      48.01680,
+      9.49720
+    ],
+    "type": "Lebensmittel",
+    "tags": [
+      "Bio"
+    ]
+  },
+  {
+    "name": "Bäckerei Müller",
+    "coords": [
+      48.01720,
+      9.49900
+    ],
+    "type": "Lebensmittel",
+    "tags": [
+      "Bio",
+      "Regional"
+    ]
+  },
+  {
+    "name": "Apotheke am Markt",
+    "coords": [
+      48.01710,
+      9.49760
+    ],
+    "type": "Gesundheit",
+    "tags": [
+      "Regional"
+    ]
+  },
+  {
+    "name": "Reha Zentrum",
+    "coords": [
+      48.01690,
+      9.49880
+    ],
+    "type": "Gesundheit",
+    "tags": [
+      "Regional"
+    ]
+  }
+]
