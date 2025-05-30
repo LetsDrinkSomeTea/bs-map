@@ -30,6 +30,7 @@ def parse_csv_to_json(csv_path, json_path):
                 print(f"error at {name=} {e=}")
                 continue
             type_ = row.get('type', '').strip()
+            category = row.get('category', 'einkaufen').strip().lower()
             # Split tags by comma and strip whitespace, ignore empty
             tags = [tag.strip() for tag in row.get('tags', '').split(',') if tag.strip()]
 
@@ -41,6 +42,7 @@ def parse_csv_to_json(csv_path, json_path):
                 "name": name,
                 "coords": [lat, lon],
                 "type": type_,
+                "category": category,
                 "tags": tags,
                 "address": address,
                 "website": website

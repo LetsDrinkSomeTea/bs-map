@@ -3,6 +3,17 @@ let places = [];          // wird durch places.json initialisiert
 let map;                  // Leaflet-Map-Instanz
 const markers = [];       // Marker-Referenzen für Filter
 
+const CustomIcon = L.Icon.extend({
+  options: {
+    iconUrl: 'static/marker.png',
+    iconSize: [31, 42],
+    iconAnchor: [16,40],
+    popupAnchor: [0,-30],
+  }
+})
+
+const customIcon = new CustomIcon()
+
 /* ---------- App-Start ---------- */
 function startApp() {
   map = L.map('map');
@@ -15,13 +26,18 @@ function startApp() {
     const parts = [
       `<b>${p.name}</b>`,
       p.type,
-      (p.tags && p.tags.length) ? p.tags.join(', ') : null,
+      (p.tags && p.tags.length) ? `<span class="popup-highlighted">${p.tags.join(', ')}</span>` : null,
       p.address || null,
       p.website ? `<a href="${p.website}" target="_blank" rel="noopener">Webseite</a>` : null
     ];
     const popupContent = parts.filter(Boolean).join('<br>');
 
-    const m = L.marker(p.coords)
+    const m = L.marker(
+      p.coords, 
+      {
+        icon: customIcon
+      }
+    )
     .bindPopup(popupContent);
     m.type = p.type;
     m.tags = p.tags;
@@ -42,21 +58,33 @@ function startApp() {
 
 /* ---------- Filter-Oberfläche ---------- */
 function buildFilters() {
-  const types = [...new Set(places.map(p => p.type))].sort();     // remove duplicates
-  const tags  = [...new Set(places.flatMap(p => p.tags))].sort(); // remove duplicates
+  const categories = [...new Set(places.map(p => p.category))].sort();
+  const tags       = [...new Set(places.flatMap(p => p.tags))].sort();
 
+  // Baue für jede Kategorie eine eigene Type-Section
+  let html = '';
+  categories.forEach(cat => {
+    const typesForCat = [...new Set(
+      places
+        .filter(p => p.category === cat)
+        .map(p => p.type)
+    )].sort();
+    html += buildSection(cat, typesForCat, 'type-filter', false);
+  });
+
+  // Danach die Tag-Section
+  html += buildSection('Nachhaltigkeit', tags, 'tag-filter', false);
+
+  // Rendern und Event-Handler binden
   const ctrl = document.getElementById('control-panel');
-  ctrl.innerHTML =
-    buildSection('Typ', types, 'type-filter', false) +
-    buildSection('Nachhaltigkeit', tags, 'tag-filter', false);
-
+  ctrl.innerHTML = html;
   ctrl.addEventListener('change', updateFilters);
 }
 
 function buildSection(title, items, cssClass, checked) {
   return `
     <div class="filter-section">
-      <h3>${title}:</h3>
+      <h3>${title}</h3>
       <div class="filter-group">
         ${items.map(i => `
           <label>
@@ -81,6 +109,12 @@ function updateFilters() {
     }
   });
 }
+
+const toggleBtn = document.getElementById('panel-toggle');
+const panel = document.querySelector('.control-panel');
+toggleBtn.addEventListener('click', () => {
+  panel.classList.toggle('hidden');
+});
 
 /* ---------- Daten laden & App starten ---------- */
 fetch('places.json')

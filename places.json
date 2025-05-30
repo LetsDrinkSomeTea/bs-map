@@ -6,6 +6,7 @@
       9.491967726114186
     ],
     "type": "Ab Hof-Verkauf",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -19,6 +20,7 @@
       9.54467691261875
     ],
     "type": "Ab Hof-Verkauf",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -32,6 +34,7 @@
       9.41412318378319
     ],
     "type": "Ab Hof-Verkauf",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -45,6 +48,7 @@
       9.480296353099245
     ],
     "type": "Ab Hof-Verkauf",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -58,6 +62,7 @@
       9.484567114224102
     ],
     "type": "Ab Hof-Verkauf",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -71,6 +76,7 @@
       9.572436880623155
     ],
     "type": "Ab Hof-Verkauf",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -84,6 +90,7 @@
       9.521201155729925
     ],
     "type": "Ab Hof-Verkauf",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -97,6 +104,7 @@
       9.435408565511013
     ],
     "type": "Ab Hof-Verkauf",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "regional"
@@ -111,6 +119,7 @@
       9.487506957605817
     ],
     "type": "Ab Hof-Verkauf",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -124,6 +133,7 @@
       9.57464323448455
     ],
     "type": "Ab Hof-Verkauf",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -137,6 +147,7 @@
       9.500707065423589
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [
       "bio"
     ],
@@ -150,6 +161,7 @@
       9.500808264921808
     ],
     "type": "Lebensmittel",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair",
@@ -165,6 +177,7 @@
       9.50919665874443
     ],
     "type": "Bäckerei",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -178,6 +191,7 @@
       9.511514454854927
     ],
     "type": "Bäckerei",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "regional"
@@ -192,6 +206,7 @@
       9.45188155574985
     ],
     "type": "Bäckerei",
+    "category": "einkaufen",
     "tags": [
       "fair",
       "regional"
@@ -206,6 +221,7 @@
       9.499672019922945
     ],
     "type": "Bäckerei",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -219,6 +235,7 @@
       9.509468854576706
     ],
     "type": "Bäckerei",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -232,6 +249,7 @@
       9.494387410958636
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [
       "fair"
     ],
@@ -245,6 +263,7 @@
       9.50255872630393
     ],
     "type": "Lebensmittel",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair",
@@ -260,6 +279,7 @@
       9.491263737668898
     ],
     "type": "Basteln, Spiel- und Schreibwaren",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -273,6 +293,7 @@
       9.498673848595974
     ],
     "type": "Lebensmittel",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair",
@@ -288,6 +309,7 @@
       9.500926549129975
     ],
     "type": "Bücher und Zeitschriften",
+    "category": "einkaufen",
     "tags": [],
     "address": "Karlstraße 6/1",
     "website": ""
@@ -299,6 +321,7 @@
       9.498921435426675
     ],
     "type": "Bücher und Zeitschriften",
+    "category": "einkaufen",
     "tags": [],
     "address": "Hauptstraße 54",
     "website": "https://www.schwaaz-vere.de"
@@ -310,6 +333,7 @@
       9.507735249796857
     ],
     "type": "Drogerie",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair",
@@ -325,6 +349,7 @@
       9.502786149361839
     ],
     "type": "Sport und Freizeit",
+    "category": "einkaufen",
     "tags": [
       "fair",
       "regional"
@@ -339,6 +364,7 @@
       9.493835804363663
     ],
     "type": "Elektro und Technik",
+    "category": "einkaufen",
     "tags": [],
     "address": "Friedrich-List-Straße 15",
     "website": "https://www.expert.de"
@@ -350,6 +376,7 @@
       9.499447497366718
     ],
     "type": "Elektro und Technik",
+    "category": "einkaufen",
     "tags": [],
     "address": "Marktplatz 4",
     "website": "https://www.mediaathome.de/bad-saulgau-buck"
@@ -361,6 +388,7 @@
       9.50042518128279
     ],
     "type": "Elektro und Technik",
+    "category": "einkaufen",
     "tags": [],
     "address": "Hauptstraße 78",
     "website": "https://tell-com.de/bad-saulgau"
@@ -372,6 +400,7 @@
       9.50089330080222
     ],
     "type": "Elektro und Technik",
+    "category": "einkaufen",
     "tags": [],
     "address": "Hauptstraße 69",
     "website": "https://shops.vodafone.de"
@@ -383,6 +412,7 @@
       9.500013760202474
     ],
     "type": "Gesundheit",
+    "category": "einkaufen",
     "tags": [],
     "address": "Oberamteistraße 1",
     "website": "https://www.antonius-apotheke-saulgau.de/"
@@ -394,6 +424,7 @@
       9.500287437662363
     ],
     "type": "Gesundheit",
+    "category": "einkaufen",
     "tags": [],
     "address": "Werderstraße 6",
     "website": "https://www.apotheke-selbherr.de/"
@@ -405,6 +436,7 @@
       9.499481732165046
     ],
     "type": "Gesundheit",
+    "category": "einkaufen",
     "tags": [],
     "address": "Kreuzgasse 4",
     "website": "https://www.auric.de/"
@@ -416,6 +448,7 @@
       9.501364569990507
     ],
     "type": "Gesundheit",
+    "category": "einkaufen",
     "tags": [],
     "address": "Hauptstraße 96",
     "website": "https://www.kuehn-ot.de"
@@ -427,6 +460,7 @@
       9.501153531246134
     ],
     "type": "Gesundheit",
+    "category": "einkaufen",
     "tags": [],
     "address": "Hauptstraße 65",
     "website": "www.sanitaetshaus-trapp.de"
@@ -438,6 +472,7 @@
       9.500835590526776
     ],
     "type": "Gesundheit",
+    "category": "einkaufen",
     "tags": [],
     "address": "Hauptstraße 67",
     "website": "https://schmidhoerakustik.de/bad-saulgau/"
@@ -449,6 +484,7 @@
       9.501648905567274
     ],
     "type": "Gesundheit",
+    "category": "einkaufen",
     "tags": [],
     "address": "Hauptstraße 79",
     "website": "https://schwaben-apotheke-saulgau.de/"
@@ -460,6 +496,7 @@
       9.502555254213469
     ],
     "type": "Gesundheit",
+    "category": "einkaufen",
     "tags": [],
     "address": "Kaiserstraße 58",
     "website": "https://vitalapotheke24.de/"
@@ -471,6 +508,7 @@
       9.50691243978623
     ],
     "type": "Lebensmittel",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair",
@@ -486,6 +524,7 @@
       9.502943708559608
     ],
     "type": "Lebensmittel",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "regional"
@@ -500,6 +539,7 @@
       9.497482271020013
     ],
     "type": "Lebensmittel",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -513,6 +553,7 @@
       9.50076112354609
     ],
     "type": "Lebensmittel",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair",
@@ -528,6 +569,7 @@
       9.495321714644525
     ],
     "type": "Lebensmittel",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "regional"
@@ -542,6 +584,7 @@
       9.498690899787055
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair"
@@ -556,6 +599,7 @@
       9.510845572878514
     ],
     "type": "Lebensmittel",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair",
@@ -571,6 +615,7 @@
       9.499988218930993
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [
       "bio"
     ],
@@ -584,6 +629,7 @@
       9.508554226834939
     ],
     "type": "Lebensmittel",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair",
@@ -599,6 +645,7 @@
       9.498593287716055
     ],
     "type": "Sport und Freizeit",
+    "category": "einkaufen",
     "tags": [
       "fair",
       "regional"
@@ -613,6 +660,7 @@
       9.498802148094153
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [
       "bio"
     ],
@@ -626,6 +674,7 @@
       9.500186835369291
     ],
     "type": "Lebensmittel",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair",
@@ -641,6 +690,7 @@
       9.500530283879591
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [
       "bio"
     ],
@@ -654,6 +704,7 @@
       9.499234013853924
     ],
     "type": "Lebensmittel",
+    "category": "einkaufen",
     "tags": [],
     "address": "Fuchsgasse 6",
     "website": ""
@@ -665,6 +716,7 @@
       9.499783717597074
     ],
     "type": "Lebensmittel",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair"
@@ -679,6 +731,7 @@
       9.49983931758455
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [
       "fair"
     ],
@@ -692,6 +745,7 @@
       9.499837905276966
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [
       "fair"
     ],
@@ -705,6 +759,7 @@
       9.501009703484348
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [
       "bio"
     ],
@@ -718,6 +773,7 @@
       9.497567010659044
     ],
     "type": "Bäckerei",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -731,6 +787,7 @@
       9.501469545181314
     ],
     "type": "Bäckerei",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -744,6 +801,7 @@
       9.501870943619378
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [],
     "address": "Hauptstraße 87",
     "website": "http://www.annluis.de/"
@@ -755,6 +813,7 @@
       9.501526384235921
     ],
     "type": "Lebensmittel",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -768,6 +827,7 @@
       9.499289426858178
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [],
     "address": "Bachstraße 7",
     "website": "https://www.facebook.com/AbendmodeCRAZYSTYLE/?_rdr"
@@ -779,6 +839,7 @@
       9.494574087527726
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [],
     "address": "Friedrich-List-Straße 10",
     "website": "https://stores.deichmann.com/de-de/index.html"
@@ -790,6 +851,7 @@
       9.50073056884219
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair"
@@ -804,6 +866,7 @@
       9.50074150438849
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [],
     "address": "Kirchplatz 6",
     "website": "https://saulgau.github.io/shb/"
@@ -815,6 +878,7 @@
       9.501068438567327
     ],
     "type": "Basteln, Spiel- und Schreibwaren",
+    "category": "einkaufen",
     "tags": [
       "fair",
       "regional"
@@ -829,6 +893,7 @@
       9.500565504407998
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [],
     "address": "Hauptstraße 61",
     "website": ""
@@ -840,6 +905,7 @@
       9.5013216144796
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [],
     "address": "Hauptstraße 92",
     "website": ""
@@ -851,6 +917,7 @@
       9.501355988703606
     ],
     "type": "Lebensmittel",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair"
@@ -865,6 +932,7 @@
       9.507516784980286
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair"
@@ -879,6 +947,7 @@
       9.50285163541929
     ],
     "type": "Basteln, Spiel- und Schreibwaren",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair",
@@ -894,6 +963,7 @@
       9.50106821435271
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [],
     "address": "Werderstraße 1",
     "website": ""
@@ -905,6 +975,7 @@
       9.502505322075903
     ],
     "type": "Bäckerei",
+    "category": "einkaufen",
     "tags": [
       "fair",
       "regional"
@@ -919,6 +990,7 @@
       9.499571319951505
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair"
@@ -933,6 +1005,7 @@
       9.498702760286097
     ],
     "type": "Wohnen und Deko",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -946,6 +1019,7 @@
       9.495879349653055
     ],
     "type": "Spezialbedarf",
+    "category": "einkaufen",
     "tags": [
       "bio"
     ],
@@ -959,6 +1033,7 @@
       9.499163629998119
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [],
     "address": "Marktplatz 3",
     "website": "https://schuh-schweizer.de/"
@@ -970,6 +1045,7 @@
       9.4958046109963
     ],
     "type": "Lebensmittel",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair",
@@ -985,6 +1061,7 @@
       9.501000621702484
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [
       "fair"
     ],
@@ -998,6 +1075,7 @@
       9.505370492141514
     ],
     "type": "Mode und Bekleidung",
+    "category": "einkaufen",
     "tags": [
       "fair"
     ],
@@ -1011,6 +1089,7 @@
       9.498423402092783
     ],
     "type": "Optik, Schmuck und Foto",
+    "category": "einkaufen",
     "tags": [],
     "address": "Hauptstraße 46",
     "website": "https://www.nerlich-augenoptik.de/"
@@ -1022,6 +1101,7 @@
       9.498900261879939
     ],
     "type": "Optik, Schmuck und Foto",
+    "category": "einkaufen",
     "tags": [],
     "address": "Hauptstraße 52",
     "website": "https://www.bollmannhaus.de/"
@@ -1033,6 +1113,7 @@
       9.500003482122047
     ],
     "type": "Optik, Schmuck und Foto",
+    "category": "einkaufen",
     "tags": [],
     "address": "Hauptstraße 72",
     "website": "https://www.fielmann.de/niederlassungen/bad-saulgau"
@@ -1044,6 +1125,7 @@
       9.547007466127937
     ],
     "type": "Optik, Schmuck und Foto",
+    "category": "einkaufen",
     "tags": [],
     "address": "Vogelsangweg 5",
     "website": "https://fokusfotografie.de/"
@@ -1055,6 +1137,7 @@
       9.50107222630393
     ],
     "type": "Optik, Schmuck und Foto",
+    "category": "einkaufen",
     "tags": [],
     "address": "Werderstraße  1",
     "website": "foto-mielke.de"
@@ -1066,6 +1149,7 @@
       9.500288108010976
     ],
     "type": "Optik, Schmuck und Foto",
+    "category": "einkaufen",
     "tags": [],
     "address": "Hauptstraße 76",
     "website": "https://www.prooptik.de/optik-zentrum/bad-saulgau"
@@ -1077,6 +1161,7 @@
       9.50066918397658
     ],
     "type": "Spezialbedarf",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair",
@@ -1092,6 +1177,7 @@
       9.497249797467967
     ],
     "type": "Spezialbedarf",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -1105,6 +1191,7 @@
       9.499237495612906
     ],
     "type": "Spezialbedarf",
+    "category": "einkaufen",
     "tags": [],
     "address": "Kreuzgasse 3",
     "website": "https://www.instagram.com/das.steinreich?igsh=MTNidXlzYXhncWU0cA%3D%3D"
@@ -1116,6 +1203,7 @@
       9.495351910958655
     ],
     "type": "Drogerie",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair",
@@ -1131,6 +1219,7 @@
       9.511365562489452
     ],
     "type": "Spezialbedarf",
+    "category": "einkaufen",
     "tags": [],
     "address": "Platzstraße 24",
     "website": "https://www.gecode.de/kunden/unsere-filialen"
@@ -1142,6 +1231,7 @@
       9.50704263222402
     ],
     "type": "Spezialbedarf",
+    "category": "einkaufen",
     "tags": [],
     "address": "Schwarzenbacher Straße 1",
     "website": "https://kreativ-u-druck.com/"
@@ -1153,6 +1243,7 @@
       9.494279682065502
     ],
     "type": "Spezialbedarf",
+    "category": "einkaufen",
     "tags": [],
     "address": "Moosheimer Straße 45",
     "website": "https://mmbs.de/"
@@ -1164,6 +1255,7 @@
       9.500335734046155
     ],
     "type": "Spezialbedarf",
+    "category": "einkaufen",
     "tags": [],
     "address": "Paradiesstraße 3",
     "website": "https://www.schulergmbh.de/"
@@ -1175,6 +1267,7 @@
       9.498416783888093
     ],
     "type": "Spezialbedarf",
+    "category": "einkaufen",
     "tags": [],
     "address": "Hauptstraße 44",
     "website": ""
@@ -1186,6 +1279,7 @@
       9.509453270368292
     ],
     "type": "Spezialbedarf",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair"
@@ -1200,6 +1294,7 @@
       9.495587353285885
     ],
     "type": "Lebensmittel",
+    "category": "einkaufen",
     "tags": [
       "bio",
       "fair",
@@ -1215,6 +1310,7 @@
       9.497230127439554
     ],
     "type": "Bäckerei",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -1228,6 +1324,7 @@
       9.502527512783407
     ],
     "type": "Sport und Freizeit",
+    "category": "einkaufen",
     "tags": [],
     "address": "Hauptstraße 95",
     "website": "https://www.rur-rolf-schmid.de/"
@@ -1239,6 +1336,7 @@
       9.508877714899086
     ],
     "type": "Sport und Freizeit",
+    "category": "einkaufen",
     "tags": [],
     "address": "Elisabethenstraße 12",
     "website": "https://www.fahrradsaettele.de/"
@@ -1250,6 +1348,7 @@
       9.49851937061444
     ],
     "type": "Wohnen und Deko",
+    "category": "einkaufen",
     "tags": [],
     "address": "Lindenstraße 4",
     "website": ""
@@ -1261,6 +1360,7 @@
       9.50961706618064
     ],
     "type": "Wohnen und Deko",
+    "category": "einkaufen",
     "tags": [
       "fair",
       "regional"
@@ -1275,6 +1375,7 @@
       9.508620758570528
     ],
     "type": "Wohnen und Deko",
+    "category": "einkaufen",
     "tags": [
       "bio"
     ],
@@ -1288,6 +1389,7 @@
       9.501769777684231
     ],
     "type": "Wohnen und Deko",
+    "category": "einkaufen",
     "tags": [],
     "address": "Hauptstraße 100",
     "website": "https://www.engler-wohnenundobjekt.de"
@@ -1299,6 +1401,7 @@
       9.501723190020316
     ],
     "type": "Wohnen und Deko",
+    "category": "einkaufen",
     "tags": [],
     "address": "Hauptstraße 83",
     "website": ""
@@ -1310,6 +1413,7 @@
       9.49482130083781
     ],
     "type": "Wohnen und Deko",
+    "category": "einkaufen",
     "tags": [],
     "address": "Friedrich-List-Straße 10",
     "website": "https://jysk.de/"
@@ -1321,6 +1425,7 @@
       9.500132369141683
     ],
     "type": "Wohnen und Deko",
+    "category": "einkaufen",
     "tags": [
       "fair",
       "regional"
@@ -1335,6 +1440,7 @@
       9.501422076477816
     ],
     "type": "Lebensmittel",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -1348,6 +1454,7 @@
       9.499894237530123
     ],
     "type": "Wohnen und Deko",
+    "category": "einkaufen",
     "tags": [],
     "address": "Paradiesstraße 27",
     "website": "https://kwb-riedlingen.de"
@@ -1359,6 +1466,7 @@
       9.487086373022155
     ],
     "type": "Wohnen und Deko",
+    "category": "einkaufen",
     "tags": [],
     "address": "Herbertinger Straße 56",
     "website": "https://www.matratzen-concord-filialen.de/"
@@ -1370,6 +1478,7 @@
       9.49803705294024
     ],
     "type": "Wohnen und Deko",
+    "category": "einkaufen",
     "tags": [],
     "address": "Hauptstraße 34",
     "website": "https://maler-pfaender.de"
@@ -1381,6 +1490,7 @@
       9.501143140104956
     ],
     "type": "Wohnen und Deko",
+    "category": "einkaufen",
     "tags": [],
     "address": "Hauptstraße 73",
     "website": "https://www.schmoetzer-raum.de/"
@@ -1392,6 +1502,7 @@
       9.5705603532851
     ],
     "type": "Wohnen und Deko",
+    "category": "einkaufen",
     "tags": [
       "fair",
       "regional"
@@ -1406,6 +1517,7 @@
       9.499414455140183
     ],
     "type": "Wohnen und Deko",
+    "category": "einkaufen",
     "tags": [],
     "address": "Paradiesstraße 40",
     "website": "https://www.weissenrieder-bettenhaus.de/"
@@ -1417,6 +1529,7 @@
       9.500617653624495
     ],
     "type": "Wohnen und Deko",
+    "category": "einkaufen",
     "tags": [
       "regional"
     ],
@@ -1430,6 +1543,7 @@
       9.501706603379057
     ],
     "type": "Bar und Kneipe",
+    "category": "einkehren",
     "tags": [
       "bio",
       "regional"
@@ -1444,6 +1558,7 @@
       9.49906026942267
     ],
     "type": "Bar und Kneipe",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
@@ -1457,6 +1572,7 @@
       9.50046642662975
     ],
     "type": "Bar und Kneipe",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
@@ -1470,6 +1586,7 @@
       9.496581461700472
     ],
     "type": "Bar und Kneipe",
+    "category": "einkehren",
     "tags": [
       "bio",
       "regional"
@@ -1484,6 +1601,7 @@
       9.495444254365221
     ],
     "type": "Bar und Kneipe",
+    "category": "einkehren",
     "tags": [],
     "address": "Herbertinger Straße 9",
     "website": ""
@@ -1495,6 +1613,7 @@
       9.499551969057299
     ],
     "type": "Bar und Kneipe",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
@@ -1508,6 +1627,7 @@
       9.497740448529006
     ],
     "type": "Bar und Kneipe",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
@@ -1521,6 +1641,7 @@
       9.487184946378301
     ],
     "type": "Bar und Kneipe",
+    "category": "einkehren",
     "tags": [],
     "address": "Herbertinger Straße 56",
     "website": ""
@@ -1532,6 +1653,7 @@
       9.501436863869278
     ],
     "type": "Bar und Kneipe",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
@@ -1545,6 +1667,7 @@
       9.503268223324667
     ],
     "type": "Bar und Kneipe",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
@@ -1558,6 +1681,7 @@
       9.499664688160976
     ],
     "type": "Café",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
@@ -1571,6 +1695,7 @@
       9.502947089544175
     ],
     "type": "Café",
+    "category": "einkehren",
     "tags": [
       "fair",
       "regional"
@@ -1585,6 +1710,7 @@
       9.495920655258743
     ],
     "type": "Café",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
@@ -1598,6 +1724,7 @@
       9.500323194275383
     ],
     "type": "Café",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
@@ -1611,6 +1738,7 @@
       9.499116584131313
     ],
     "type": "Café",
+    "category": "einkehren",
     "tags": [],
     "address": "Marktplatz 5",
     "website": ""
@@ -1622,6 +1750,7 @@
       9.501552400906494
     ],
     "type": "Café",
+    "category": "einkehren",
     "tags": [],
     "address": "Hauptstraße 96",
     "website": "https://www.facebook.com/venedigbadsaulgau"
@@ -1633,6 +1762,7 @@
       9.47538289306902
     ],
     "type": "Café",
+    "category": "einkehren",
     "tags": [
       "bio",
       "fair",
@@ -1648,6 +1778,7 @@
       9.500782526818318
     ],
     "type": "Café",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
@@ -1661,6 +1792,7 @@
       9.49739698026747
     ],
     "type": "Imbiss, Fastfood",
+    "category": "einkehren",
     "tags": [],
     "address": "Moosheimer Straße 4",
     "website": "https://krediportal.com/bey-kebap-haus-agldd34"
@@ -1672,6 +1804,7 @@
       9.511538776002238
     ],
     "type": "Imbiss, Fastfood",
+    "category": "einkehren",
     "tags": [],
     "address": "Platzstraße 24",
     "website": "https://cinars-feinkost.metro.biz/"
@@ -1683,6 +1816,7 @@
       9.499003534029331
     ],
     "type": "Imbiss, Fastfood",
+    "category": "einkehren",
     "tags": [],
     "address": "Bachstraße 2",
     "website": ""
@@ -1694,6 +1828,7 @@
       9.48884489932253
     ],
     "type": "Imbiss, Fastfood",
+    "category": "einkehren",
     "tags": [],
     "address": "Herbertinger Straße 45",
     "website": "https://www.mcdonalds.com/"
@@ -1705,6 +1840,7 @@
       9.50018040062774
     ],
     "type": "Imbiss, Fastfood",
+    "category": "einkehren",
     "tags": [],
     "address": "Oberamteistraße 6",
     "website": ""
@@ -1716,6 +1852,7 @@
       9.498827700327485
     ],
     "type": "Imbiss, Fastfood",
+    "category": "einkehren",
     "tags": [],
     "address": "Sießener Straße 14",
     "website": "https://royal52-bad-saulgau.eatbu.com/?lang=de"
@@ -1727,6 +1864,7 @@
       9.487439556089738
     ],
     "type": "Imbiss, Fastfood",
+    "category": "einkehren",
     "tags": [],
     "address": "Herbertinger Straße 56",
     "website": "https://restaurants.subway.com"
@@ -1738,6 +1876,7 @@
       9.499797199283872
     ],
     "type": "Restaurant",
+    "category": "einkehren",
     "tags": [],
     "address": "Paradiesstraße 23",
     "website": ""
@@ -1749,6 +1888,7 @@
       9.500115986534883
     ],
     "type": "Restaurant",
+    "category": "einkehren",
     "tags": [],
     "address": "Hauptstraße 74",
     "website": "Menue - Japanisches Restaurant mit Fusionküche"
@@ -1760,6 +1900,7 @@
       9.497829993475959
     ],
     "type": "Restaurant",
+    "category": "einkehren",
     "tags": [],
     "address": "Hauptstraße 23",
     "website": "https://www.athen-badsaulgau.de/"
@@ -1771,6 +1912,7 @@
       9.499516465479083
     ],
     "type": "Restaurant",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
@@ -1784,6 +1926,7 @@
       9.57293225068967
     ],
     "type": "Restaurant",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
@@ -1797,6 +1940,7 @@
       9.502480527105782
     ],
     "type": "Restaurant",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
@@ -1810,6 +1954,7 @@
       9.498983160844926
     ],
     "type": "Restaurant",
+    "category": "einkehren",
     "tags": [
       "fair",
       "bio",
@@ -1825,6 +1970,7 @@
       9.487118183975058
     ],
     "type": "Restaurant",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
@@ -1838,6 +1984,7 @@
       9.498433838038567
     ],
     "type": "Restaurant",
+    "category": "einkehren",
     "tags": [],
     "address": "Hauptstraße 35",
     "website": ""
@@ -1849,6 +1996,7 @@
       9.501219931847638
     ],
     "type": "Restaurant",
+    "category": "einkehren",
     "tags": [
       "bio",
       "regional"
@@ -1863,6 +2011,7 @@
       9.501714404349066
     ],
     "type": "Restaurant",
+    "category": "einkehren",
     "tags": [],
     "address": "Blauwstraße 1",
     "website": ""
@@ -1874,6 +2023,7 @@
       9.50011265960589
     ],
     "type": "Restaurant",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
@@ -1887,6 +2037,7 @@
       9.498220646107255
     ],
     "type": "Restaurant",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
@@ -1900,6 +2051,7 @@
       9.499474997467631
     ],
     "type": "Restaurant",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
@@ -1913,6 +2065,7 @@
       9.501934886038622
     ],
     "type": "Restaurant",
+    "category": "einkehren",
     "tags": [],
     "address": "Karlstraße 13",
     "website": "https://www.komforthotels.de/restaurant"
@@ -1924,6 +2077,7 @@
       9.50548599746817
     ],
     "type": "Restaurant",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
@@ -1937,6 +2091,7 @@
       9.459104839794483
     ],
     "type": "Restaurant",
+    "category": "einkehren",
     "tags": [
       "bio",
       "regional"
@@ -1951,6 +2106,7 @@
       9.487225415604392
     ],
     "type": "Restaurant",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
@@ -1964,6 +2120,7 @@
       9.4986440286226
     ],
     "type": "Restaurant",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
@@ -1977,6 +2134,7 @@
       9.50051385899582
     ],
     "type": "Restaurant",
+    "category": "einkehren",
     "tags": [
       "regional"
     ],
