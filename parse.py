@@ -23,10 +23,11 @@ def parse_csv_to_json(csv_path, json_path):
             # Parse and clean fields
             name = row.get('name', '').strip()
             try:
-                lat = float(row.get('lat', 0))
-                lon = float(row.get('lon', 0))
-            except ValueError:
-                # Skip rows with invalid coordinates
+                coords = row.get('coords', ', ').split(', ')
+                lat = float(coords[0])
+                lon = float(coords[1])
+            except ValueError as e:
+                print(f"error at {name=} {e=}")
                 continue
             type_ = row.get('type', '').strip()
             # Split tags by comma and strip whitespace, ignore empty
